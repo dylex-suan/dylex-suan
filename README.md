@@ -20,6 +20,7 @@ Visit my personal website [here](https://www.dylexsuan.com), or visit the follow
   <a href="https://github.com/dylex-suan"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" /></a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=dylex-suan)
 
 <!--
 **dylex-suan/dylex-suan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
