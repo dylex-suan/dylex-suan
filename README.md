@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Dylex, a 2nd-year Computer Science Student at the University of Waterloo! I was previously a full stack developer intern at [**Prodigy Education Inc.**](https://www.prodigygame.com/main-en/) and was a software developer for the **University of Waterloo**! Currently searching for **Fall 2022** internships, and would love to network with other aspiring developers!
+I'm Dylex, a 2nd-year Computer Science Student at the University of Waterloo! I am currently a Software Developer at Peraso Inc., helping to build and migrate automation services! I was previously a full stack developer intern at [**Prodigy Education Inc.**](https://www.prodigygame.com/main-en/) and was a software developer for the **University of Waterloo**! Currently searching for **Summer 2023** internships, and would love to network with other aspiring developers!
 
 🔭 I’m currently working on
 - Building web scrapers
