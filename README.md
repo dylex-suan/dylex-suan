@@ -1,13 +1,14 @@
 ### Hi there! 👋
 
-I'm Dylex, a 3rd-year Computer Science Student at the University of Waterloo! I finished my internship as a Software Developer Intern at [**Peraso Inc.**](https://perasoinc.com/), helping to build and migrate automation services from Qt to Node.js! I was previously a full stack developer intern at [**Prodigy Education Inc.**](https://www.prodigygame.com/main-en/) and was a software developer for the **University of Waterloo**! Currently searching for **Summer 2023** internships, and would love to network with other aspiring developers!
+I'm Dylex, a 3rd-year Computer Science Student at the University of Waterloo! I finished my internship as a Software Developer Intern at [**Northern Mechatronics Inc.**](https://github.com/NorthernMechatronics), building machine learning models through Tensorflow for use on a microcontroller, particularly the NM180100 module! I've also published on Github related to my ML work [**here**](https://github.com/NorthernMechatronics/tflm_digits)! I was previously an automation developer at [**Peraso Inc.**](https://perasoinc.com/), a full stack developer intern at [**Prodigy Education Inc.**](https://www.prodigygame.com/main-en/) and a software developer for the **University of Waterloo**! Currently searching for **Winter 2024** and/or **Summer/Fall 2024** internships, and would love to network with other aspiring developers!
 
 🔭 I’m currently working on
-- Building web scrapers
+- Building apps for my own use
 
 🌱 I’m currently learning ...
-- How to use Amazon Web Services
-- How to use Typescript in my applications!
+- TensorFlow/Keras
+- Arduino
+- C++
 
 ![](https://komarev.com/ghpvc/?username=dylex-suan)
 
