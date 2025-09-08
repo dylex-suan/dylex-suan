@@ -4,6 +4,8 @@ My name is Dylex Suan. I am a recent graduate of Computer Science from the Unive
 
 In my free time, I am a professional pianist and organist within my hometown, playing regularly for church services, weddings and funerals! 🎹
 
+I'm interested in low-level development and digital signal processing/computational audio! I worked with MATLAB/Octave developing a few projects during my undergraduate studies.
+
 ![](https://komarev.com/ghpvc/?username=dylex-suan)
 
 -----
